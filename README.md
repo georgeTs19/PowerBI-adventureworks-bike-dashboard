@@ -40,9 +40,6 @@ This project is a data visualization dashboard built with Power BI for a fiction
 ### Decomposition Tree  
 ![Decomposition Tree](images/decompositionTree.jpg)
 
-### Q&A Page  
-![Q&A Page](images/q&a.jpg)
-
 ---
 ## 🗃️ Data Sources
 
