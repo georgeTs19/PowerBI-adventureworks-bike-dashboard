@@ -1,5 +1,3 @@
-# PowerBI-adventureworks-bike-dashboard
-
 # AdventureWorks Bike Shop - Power BI Dashboard
 
 This project is a data visualization dashboard built with Power BI for a fictional bike company, **AdventureWorks**. It showcases sales, customer behavior, geographic distribution, product performance, and key influencers across several dashboard visuals.
@@ -14,19 +12,38 @@ This project is a data visualization dashboard built with Power BI for a fiction
 
 ## 📁 Project Structure
 
+
 - `AdventureWorks Report.pbix` – Main Power BI report file
-- `images/` – Exported screenshots of dashboard pages
 - `README.md` – Project overview and instructions
+- `images/` – Exported screenshots of dashboard pages
+- `data/` – All raw CSV datasets used for building the report
+- `icons/` – Custom icons used within the Power BI interfac
+
 
 ## 📷 Screenshots
 
-### Executive Dashboard
+### Executive Dashboard  
 ![Executive Dashboard](images/execDashboard.jpg)
 
-### Customer Detail
+### Customer Detail  
 ![Customer Detail](images/CustomerDetail.jpg)
 
+### Product Detail  
+![Product Detail](images/productDetail.jpg)
 
+### Map View  
+![Map](images/map.jpg)
+
+### Key Influencers  
+![Key Influencers](images/KeyInfluencers.jpg)
+
+### Decomposition Tree  
+![Decomposition Tree](images/decompositionTree.jpg)
+
+### Q&A Page  
+![Q&A Page](images/q&a.jpg)
+
+---
 ## 🗃️ Data Sources
 
 The `/data` folder contains all raw CSV files used to build the Power BI report:
@@ -47,8 +64,8 @@ The `/data` folder contains all raw CSV files used to build the Power BI report:
 - **Returns Data**:
   - `AdventureWorks Returns Data.csv` – Product returns tracking
 
-
-
+ ---
+ 
 ## 📌 Tools Used
 
 - Microsoft Power BI
